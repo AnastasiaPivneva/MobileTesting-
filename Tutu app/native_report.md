@@ -67,5 +67,5 @@ Priority: major
 
 Вложение: скрин 1
 
-![2](images/2.jpg)
+![2](images/2.jpg) 
 
